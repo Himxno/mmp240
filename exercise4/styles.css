@@ -1,0 +1,11 @@
+#wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background-image: url(ww-cast.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color: aqua;
+}
