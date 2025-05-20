@@ -1,11 +1,16 @@
 h1, h2{font-family: "Poetsen One", sans-serif;
 }
 h1{font-size: 52px;
+margin-top: 10px;
 }
 h2{font-size: 36px;
 }
 p, ul, ol{font-family: "Oswald", sans-serif;
-font-size: 24px
+font-size: 24px;
+}
+li{margin-bottom: 16px;
 }
 img{border: 5px solid black;
+}
+body{background-color: #bf8237;
 }
